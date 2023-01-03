@@ -6,7 +6,7 @@ Point Cloud (colorized by height):
 
 and
 
-Plot Boundary:
+Plot Boundary (Visualized by ArcGIS pro):
 
 ![image](https://user-images.githubusercontent.com/40990773/210366720-1299104e-bd0c-427c-9859-6f149be4d898.png)
 
