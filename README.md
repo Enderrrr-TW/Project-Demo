@@ -4,7 +4,7 @@ This repo shows my previous works, including:
   - satellite imagery, multispectral imagery
 - Plot Level LiDAR features extraction
   - LiDAR, vector processing
-- Gravel imbrication segmentation
+- Gravel imbrication clustering
   - LiDAR, depth first search (DFS)
 - Leaf area index estimation with PointNet++
   - LiDAR, PointNet++, stratified cross validation
