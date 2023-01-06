@@ -1,14 +1,14 @@
 # Project Demo
-This repo shows my previous works, including: 
-- Quantifying the duration of typhoon-induced suspeneded sediment.
+This repository showcases some of my previous projects, including:
+- Quantifying the duration of typhoon-induced suspended sediment using multispectral imagery collected by a geostationary satellite
   - satellite imagery, multispectral imagery
-- Plot Level LiDAR features extraction
+- Extracting plot-level LiDAR features using various techniques.
   - LiDAR, vector processing
-- Gravel imbrication clustering
+- Clustering gravel imbrication on the riverbed
   - LiDAR, depth first search (DFS)
-- Leaf area index estimation with PointNet++
+- Estimating leaf area index using PointNet++ with stratified cross validation
   - LiDAR, PointNet++, stratified cross validation
 
-Note:
-1. Some of my works have not been published. The codes for those projects are not shared.
-2. All of my previous projects using hyperspectral images are protected by NDA, and thus they cannot be found here.
+Please note:
+1. Some of my projects have not yet been published, and the associated code is not shared in this repository.
+2. Due to non-disclosure agreements, my previous projects using hyperspectral imagery are not available in this repository.
