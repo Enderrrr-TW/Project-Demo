@@ -1,7 +1,7 @@
 This work was published on Remote Sensing (https://www.mdpi.com/2072-4292/13/2/194).
 I was responsible for developing all the codes used in this paper.
 
-# Intro
+# Introduction
 The purpose of this work is to estimate the duration of typhoon-induced suspended sediment (SS) in the ocean surface using imagery collected by a geostationary satellite. Before starting this research, I took a course on ocean pollution and its impacts on ocean ecology, where I learned about the resilience of eco-systems. To account for this resilience, I used an average SS concentration + 10% of the SS induced by the typhoon as the baseline to determine when a pixel has returned to its original status. However, it is important to note that this baseline may vary depending on the species or eco-system being studied. Additionally, the maximum SS concentration during the observation period is also shown to quantify the magnitude of the impact. This approach may aid in understanding the impacts of suspended sediment on marine life, such as coral, in the ocean.
 
 A rough outline of the workflow is shown below:
