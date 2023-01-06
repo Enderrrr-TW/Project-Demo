@@ -74,4 +74,5 @@ def main():
             xyz_fps[2]=xyz_fps[2]-cp.mean(xyz_fps[2])
             xyz_fps=cp.asnumpy(xyz_fps)
             np.savetxt(output_name,xyz_fps)
-main()
+if __name__ == '__main__':
+    main()
