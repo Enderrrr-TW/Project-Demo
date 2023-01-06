@@ -12,4 +12,4 @@ This repository showcases some of my previous projects, including:
 Please note:
 1. Some of my projects have not yet been published, and the associated code is not shared in this repository.
 2. Due to non-disclosure agreements, my previous projects using hyperspectral imagery are not available in this repository.
-3. Both the contributors in this repository are my github account
+3. Both the contributors in this repository are my github account. If you are aware of any potential opportunities, please feel free to contact me through https://www.linkedin.com/in/at-huang/.
