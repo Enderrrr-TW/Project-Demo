@@ -11,4 +11,4 @@ This repo shows my previous works, including:
 
 Note:
 1. Some of my works have not been published. The codes for those projects are not shared.
-2. All of my previous scripts for processing hyperspectral images are protected by NDA, and thus they cannot be found here.
+2. All of my previous projects using hyperspectral images are protected by NDA, and thus they cannot be found here.
